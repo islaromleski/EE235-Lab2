@@ -1,4 +1,4 @@
-; Author : Matthew;
+; Author : Matthew Romleski
 ; Tech ID: 12676184
 ; Program which runs through a size 40 array of 8-bit elements and counts the number that have either the 7, 6, or 0 bit set to 1.
 
